@@ -19,4 +19,5 @@ mkdir -p $TMP
 python -m pytest \
     --basetemp=$TMP \
     -m "benchmark" \
-    --codspeed
+    --codspeed \
+    --memray

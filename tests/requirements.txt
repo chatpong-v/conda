@@ -3,6 +3,7 @@ boltons >=23.0.0
 charset-normalizer
 conda-content-trust
 conda-forge::anaconda-client
+conda-forge::pytest-memray
 conda-forge::pytest-split
 conda-forge::pytest-xprocess
 conda-forge::xdoctest
